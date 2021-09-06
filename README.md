@@ -6,3 +6,5 @@ All things Front-end engineering related; processes, best practices, setup guide
 [EditorConfig](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/EditorConfig)
 
 [ESLint Config](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/ESLint-Config)
+
+[StyleLint Config](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/StyleLint)
