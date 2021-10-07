@@ -8,3 +8,5 @@ All things Front-end engineering related; processes, best practices, setup guide
 [ESLint Config](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/ESLint-Config)
 
 [StyleLint Config](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/StyleLint)
+
+(Bash Profile)(https://github.com/nsymester/Front-end-Engineering-Journal/wiki/Bash-Profile)
