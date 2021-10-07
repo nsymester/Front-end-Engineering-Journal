@@ -9,4 +9,4 @@ All things Front-end engineering related; processes, best practices, setup guide
 
 [StyleLint Config](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/StyleLint)
 
-(Bash Profile)(https://github.com/nsymester/Front-end-Engineering-Journal/wiki/Bash-Profile)
+[Bash Profile](https://github.com/nsymester/Front-end-Engineering-Journal/wiki/Bash-Profile)
